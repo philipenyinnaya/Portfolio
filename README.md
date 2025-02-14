@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! Here, you'll find projects highlighting my geosp
 - **GIS Application Development:** Esri Dashboards, Web App Builder  
 - **Database Management:** SQL, FME  
 - **Programming & Automation:** Python, JavaScript, C#  
-- **Data Visualization:** Power BI  
+- **Data Visualization:** StoryMap, Power BI  
 
 ## 📂 Projects
 - **Capstone Project**: A comprehensive GIS project showcasing advanced spatial analysis and automation skills.
