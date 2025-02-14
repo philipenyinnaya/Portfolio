@@ -1,5 +1,4 @@
 # Philip Enyinnaya - GIS Professional Portfolio
-logo:"C:\Users\User\OneDrive\Desktop\2nd_SEMESTER_FANSHAWE COLLEGE_GIS\Web GIS\LABS\LAB 1\Enyinnaya\Main Image.jpg"
 Welcome to my GitHub portfolio! Here, you'll find projects highlighting my geospatial analysis, web/mobile GIS solutions, and spatial data management expertise.
 
 ## 🧭 About Me
