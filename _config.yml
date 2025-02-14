@@ -1,9 +1,0 @@
-
-title: Philip Enyinnaya
-logo:"C:\Users\User\OneDrive\Desktop\2nd_SEMESTER_FANSHAWE COLLEGE_GIS\Web GIS\LABS\LAB 1\Enyinnaya\Main Image.jpg"
-description: GIS Professional | Geospatial Analysis | Web & Mobile GIS Solutions
-Showcasing projects in ArcGIS Pro, FME, Python, SQL, and geospatial application development. Experienced in mining, business, and environmental management with a passion for solving spatial challenges through innovative technology.
-show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
